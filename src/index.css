@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+ 
+    :root {
+        --primary-color:#FA8231 ;
+        --secondary-color: #0f031c;
+      }
+
+*{
+    box-sizing: border-box;
+    word-spacing: 2px;
+    scroll-behavior: smooth;
+    
+}

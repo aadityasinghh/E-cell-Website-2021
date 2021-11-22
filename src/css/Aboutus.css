@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family:Andada Pro;
+    justify-content: center;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.main-title{
+    text-align: center;
+    font-size: 3rem;
+    color:  #FA8231;
+    padding-bottom: 20px;
+    font-family:Andada Pro;
+}
+  #about-us{
+    position: relative;
+    background-image:url("../images/Aboutus-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:#fff;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    font-size:large;
+  }
+ 
+  
+
+  
+  

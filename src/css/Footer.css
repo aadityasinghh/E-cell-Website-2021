@@ -1,0 +1,9 @@
+:root {
+    --primary-color:#FA8231 ;
+    --secondary-color: #0f031c;
+  }
+
+.footer{
+    text-align: center;
+    background-color: variable(--primary);
+}
