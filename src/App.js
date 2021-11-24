@@ -15,6 +15,7 @@ const App = () => {
 		<Homepage/>
 		<Aboutus/>
 		<Glimpse/>
+		<Footer/>
 	</div>
 	);
 };
